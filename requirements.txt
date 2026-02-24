@@ -1,0 +1,7 @@
+streamlit
+numpy
+pandas
+pickle
+scikit-learn
+
+# pip install streamlit
