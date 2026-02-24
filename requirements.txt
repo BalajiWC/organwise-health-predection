@@ -5,3 +5,7 @@ pickle
 scikit-learn
 
 # pip install streamlit
+
+# pip install numpy pandas pickle
+
+# pip install scikit-learn
